@@ -1,0 +1,1 @@
+web: gunicorn lunagym.wsgi
